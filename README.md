@@ -12,6 +12,10 @@ An example of 3D CAD :
 
 https://github.com/013nour/Synthetic-data-using-3D-CAD/assets/50384785/eb3b4031-3976-4d65-bec0-e5179f1beadc
 
+ ## Algorithms:
+
+ * Yolo V8.
+
 ## Steps: 
 
 1- Capture multiple shots from 27 angles for the object using the CAD file and make use of setting different lighting (up to 6) angels and lighting color (unlimited) to get unique shot of the objects
