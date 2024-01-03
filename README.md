@@ -16,19 +16,19 @@ https://github.com/013nour/Synthetic-data-using-3D-CAD/assets/50384785/eb3b4031-
 
 1- Capture multiple shots from 27 angles for the object using the CAD file and make use of setting different lighting (up to 6) angels and lighting color (unlimited) to get unique shot of the objects
 
-<img src="" width="400" height="400">
+<img src="https://github.com/013nour/Synthetic-data-using-3D-CAD/blob/main/imgs/Picture1.jpg" width="400" height="400">
 
 2.	Collected random backgrounds then created composition of the object, each added object would have its unique size and position, since the whole picture is synthetic the labeling is done 100% auto.
 
-<img src="" width="400" height="400">
-<img src="" width="400" height="400">
+<img src="https://github.com/013nour/Synthetic-data-using-3D-CAD/blob/main/imgs/Picture2.jpg" width="400" height="400">
+<img src="https://github.com/013nour/Synthetic-data-using-3D-CAD/blob/main/imgs/Picture3.jpg" width="400" height="400">
 
 3.	Unlimited number of compositions can be made to create a dataset size of my choice.
 
-<img src="" width="400" height="400">
+<img src="https://github.com/013nour/Synthetic-data-using-3D-CAD/blob/main/imgs/Picture4.png" width="400" height="400">
 
 ## Results : 
 
 Test the model on real world object to prove that 3D CAD designs can be used to compensate the lack of data.
 
-<img src="" width="400" height="400">
+<img src="https://github.com/013nour/Synthetic-data-using-3D-CAD/blob/main/imgs/8.jpeg" width="400" height="400">
